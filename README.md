@@ -12,3 +12,16 @@ A simple Python script that scrapes book titles and prices from [Books to Scrape
 - Clean and modular `main.py` file — easy to run and understand
 
 ---
+
+
+## 🚀 How to Run
+
+### 🧩 1. Install Requirements
+
+Make sure Python is installed, then install dependencies:
+
+```bash
+pip install -r requirements.txt
+
+
+
